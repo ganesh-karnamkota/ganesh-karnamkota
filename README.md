@@ -53,7 +53,7 @@ Strong expertise in RESTful API Development, JWT-based Authentication, Protected
 
 ---
 
-## 🛒 Nxt Trendz – MERN E-Commerce Platform
+## 🛒 Nxt Trendz – E-Commerce Platform
 
 ### 🔥 Overview
 Scalable & secure E-Commerce application with dynamic filtering, JWT Authentication, and real-time cart logic.
