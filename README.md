@@ -32,6 +32,7 @@ Strong expertise in RESTful API Development, JWT-based Authentication, Protected
 - Middleware Implementation
 
 ### 🗄️ Database & Programming
+- MongoDB
 - SQL
 - Python
 - CRUD Operations
@@ -130,7 +131,7 @@ https://ganeshjobby2026.ccbp.tech
 # 📫 Connect With Me
 📧 kganeshsai8@gmail.com  
 🔗 https://linkedin.com/in/ganesh-karnamkota  
-🌐 https://ganeshkarnamkotatech.netlify.app  
+🌐 https://ganeshkarnamkota.netlify.app  
 
 ---
 
